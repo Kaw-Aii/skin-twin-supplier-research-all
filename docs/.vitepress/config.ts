@@ -139,6 +139,19 @@ export default defineConfig({
             ],
           },
           {
+            text: 'Architecture',
+            icon: 'lucide:cpu',
+            items: [
+              { text: 'Overview', link: withBase('/en/docs/architecture/') },
+              { text: 'System Overview', link: withBase('/en/docs/architecture/system-overview') },
+              { text: 'Component Architecture', link: withBase('/en/docs/architecture/component-architecture') },
+              { text: 'Data Architecture', link: withBase('/en/docs/architecture/data-architecture') },
+              { text: 'Integration Architecture', link: withBase('/en/docs/architecture/integration-architecture') },
+              { text: 'Technology Stack', link: withBase('/en/docs/architecture/technology-stack') },
+              { text: 'Deployment Architecture', link: withBase('/en/docs/architecture/deployment-architecture') },
+            ],
+          },
+          {
             text: 'Manual',
             icon: 'lucide:book-open',
             items: [
@@ -217,6 +230,19 @@ export default defineConfig({
               },
               { text: '有关 AI VTuber', link: withBase('/zh-Hans/docs/overview/about-ai-vtuber') },
               { text: '有关 Neuro-sama', link: withBase('/zh-Hans/docs/overview/about-neuro-sama') },
+            ],
+          },
+          {
+            text: '架构',
+            icon: 'lucide:cpu',
+            items: [
+              { text: '概览', link: withBase('/en/docs/architecture/') },
+              { text: '系统概览', link: withBase('/en/docs/architecture/system-overview') },
+              { text: '组件架构', link: withBase('/en/docs/architecture/component-architecture') },
+              { text: '数据架构', link: withBase('/en/docs/architecture/data-architecture') },
+              { text: '集成架构', link: withBase('/en/docs/architecture/integration-architecture') },
+              { text: '技术栈', link: withBase('/en/docs/architecture/technology-stack') },
+              { text: '部署架构', link: withBase('/en/docs/architecture/deployment-architecture') },
             ],
           },
           {
