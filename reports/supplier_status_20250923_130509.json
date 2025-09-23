@@ -1,0 +1,478 @@
+{
+  "timestamp": "2025-09-23T13:05:09.988944",
+  "total_suppliers": 47,
+  "online_suppliers": 0,
+  "offline_suppliers": 47,
+  "suppliers": {
+    "06A0001": {
+      "name": "o6 Agencies",
+      "url": "https://o6southafrica.com/",
+      "availability": "Fragrance and Flavour Supplier",
+      "pricing": "Contact for quote",
+      "notes": "Supplier of fragrances and flavors for the Southern and Eastern African markets.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.851514",
+      "error": "HTTPSConnectionPool(host='o6southafrica.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1eb9b7a0>: Failed to resolve 'o6southafrica.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "AEC001": {
+      "name": "A&E Connock",
+      "url": "https://connock.co.uk/",
+      "availability": "Speciality Ingredients Supplier",
+      "pricing": "Contact for quote",
+      "notes": "UK-based supplier of speciality ingredients to the personal care industry worldwide.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.853949",
+      "error": "HTTPSConnectionPool(host='connock.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bc110>: Failed to resolve 'connock.co.uk' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "AKU001": {
+      "name": "AECI Specialty Chemicals",
+      "url": "https://sc.aecichemicals.co.za/",
+      "availability": "Personal Care Ingredients",
+      "pricing": "Contact for quote",
+      "notes": "Diversified chemical company with a focus on sustainability and a personal care applications lab.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.855950",
+      "error": "HTTPSConnectionPool(host='sc.aecichemicals.co.za', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bc680>: Failed to resolve 'sc.aecichemicals.co.za' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "BOT0003": {
+      "name": "Botanichem",
+      "url": "318.45",
+      "availability": "Online Shop",
+      "pricing": "R352.35 - R10",
+      "notes": "https://botanichem.co.za/",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.856204",
+      "error": "Invalid URL '318.45': No scheme supplied. Perhaps you meant https://318.45?"
+    },
+    "CRO0001": {
+      "name": "Croda Chemicals S.A (Pty) Ltd",
+      "url": "https://www.croda.com/en-gb/about-us/where-we-operate/emea/south-africa",
+      "availability": "Full product catalogue available",
+      "pricing": "Contact for quote",
+      "notes": "Major international supplier with strong local presence and focus on innovative, high-performance ingredients.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.858099",
+      "error": "HTTPSConnectionPool(host='www.croda.com', port=443): Max retries exceeded with url: /en-gb/about-us/where-we-operate/emea/south-africa (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bcf80>: Failed to resolve 'www.croda.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "MEG0001": {
+      "name": "Meganede CC",
+      "url": "https://www.meganede.com/",
+      "availability": "Distributor for Silab",
+      "pricing": "Contact for quote",
+      "notes": "Distributor of high-quality, innovative raw materials for cosmetic products. Represents Silab in South Africa.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.861037",
+      "error": "HTTPSConnectionPool(host='www.meganede.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d88bf80>: Failed to resolve 'www.meganede.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1905018": {
+      "name": "Glyco Repair",
+      "url": "https://www.silab.fr/en",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Silab, distributed by Meganede.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.864180",
+      "error": "HTTPSConnectionPool(host='www.silab.fr', port=443): Max retries exceeded with url: /en (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bcbc0>: Failed to resolve 'www.silab.fr' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1905027": {
+      "name": "Deglysome",
+      "url": "https://www.silab.fr/en",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Silab, distributed by Meganede.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.869963",
+      "error": "HTTPSConnectionPool(host='www.silab.fr', port=443): Max retries exceeded with url: /en (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bc290>: Failed to resolve 'www.silab.fr' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1905035": {
+      "name": "Sebonormine OP",
+      "url": "https://www.silab.fr/en",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Silab, distributed by Meganede.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.874965",
+      "error": "HTTPSConnectionPool(host='www.silab.fr', port=443): Max retries exceeded with url: /en (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bd460>: Failed to resolve 'www.silab.fr' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1905041": {
+      "name": "Unflamagyl",
+      "url": "https://www.silab.fr/en",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Silab, distributed by Meganede.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.880796",
+      "error": "HTTPSConnectionPool(host='www.silab.fr', port=443): Max retries exceeded with url: /en (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bdd00>: Failed to resolve 'www.silab.fr' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1905046": {
+      "name": "Dermapur HP OP",
+      "url": "https://www.silab.fr/en",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Silab, distributed by Meganede.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.884130",
+      "error": "HTTPSConnectionPool(host='www.silab.fr', port=443): Max retries exceeded with url: /en (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8be5d0>: Failed to resolve 'www.silab.fr' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1905048": {
+      "name": "Vitagenyl",
+      "url": "https://www.silab.fr/en",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Silab, distributed by Meganede.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.886434",
+      "error": "HTTPSConnectionPool(host='www.silab.fr', port=443): Max retries exceeded with url: /en (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d88b140>: Failed to resolve 'www.silab.fr' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1905049": {
+      "name": "Detoxyl OP",
+      "url": "https://www.silab.fr/en",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Silab, distributed by Meganede.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.888457",
+      "error": "HTTPSConnectionPool(host='www.silab.fr', port=443): Max retries exceeded with url: /en (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8be5a0>: Failed to resolve 'www.silab.fr' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1905050": {
+      "name": "Celldetox",
+      "url": "https://www.silab.fr/en",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Silab, distributed by Meganede.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.890235",
+      "error": "HTTPSConnectionPool(host='www.silab.fr', port=443): Max retries exceeded with url: /en (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bd9a0>: Failed to resolve 'www.silab.fr' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1905051": {
+      "name": "Mitokinyl",
+      "url": "https://www.silab.fr/en",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Silab, distributed by Meganede.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.892342",
+      "error": "HTTPSConnectionPool(host='www.silab.fr', port=443): Max retries exceeded with url: /en (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bc440>: Failed to resolve 'www.silab.fr' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1905052": {
+      "name": "Fermiskin GR",
+      "url": "https://www.silab.fr/en",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Silab, distributed by Meganede.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.894529",
+      "error": "HTTPSConnectionPool(host='www.silab.fr', port=443): Max retries exceeded with url: /en (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bcbf0>: Failed to resolve 'www.silab.fr' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1905053": {
+      "name": "Retilactyl D",
+      "url": "https://www.silab.fr/en",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Silab, distributed by Meganede.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.897184",
+      "error": "HTTPSConnectionPool(host='www.silab.fr', port=443): Max retries exceeded with url: /en (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8becf0>: Failed to resolve 'www.silab.fr' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1905054": {
+      "name": "Raffermine 2",
+      "url": "https://www.silab.fr/en",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Silab, distributed by Meganede.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.899168",
+      "error": "HTTPSConnectionPool(host='www.silab.fr', port=443): Max retries exceeded with url: /en (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d88bf20>: Failed to resolve 'www.silab.fr' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1905056": {
+      "name": "Eternaline",
+      "url": "https://www.silab.fr/en",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Silab, distributed by Meganede.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.901476",
+      "error": "HTTPSConnectionPool(host='www.silab.fr', port=443): Max retries exceeded with url: /en (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bf290>: Failed to resolve 'www.silab.fr' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1905057": {
+      "name": "Oxygeskin",
+      "url": "https://www.silab.fr/en",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Silab, distributed by Meganede.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.903584",
+      "error": "HTTPSConnectionPool(host='www.silab.fr', port=443): Max retries exceeded with url: /en (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bc9b0>: Failed to resolve 'www.silab.fr' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1905058": {
+      "name": "Aquaphyline EL",
+      "url": "https://www.silab.fr/en",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Silab, distributed by Meganede.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.905392",
+      "error": "HTTPSConnectionPool(host='www.silab.fr', port=443): Max retries exceeded with url: /en (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bd370>: Failed to resolve 'www.silab.fr' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "NAT0001": {
+      "name": "Natchem CC",
+      "url": "https://cpt.natchem.co.za/",
+      "availability": "Extensive botanical and fragrance portfolio",
+      "pricing": "Contact for quote",
+      "notes": "Largest supplier portfolio in the hypergraph (16 ingredients), exclusive distributor for Greentech in South Africa.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.910975",
+      "error": "HTTPSConnectionPool(host='cpt.natchem.co.za', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bdb50>: Failed to resolve 'cpt.natchem.co.za' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1905039": {
+      "name": "Epigenist LS10003",
+      "url": "https://botanichem.co.za/",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Botanichem, likely via one of their partners like BASF or JAKA",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.916371",
+      "error": "HTTPSConnectionPool(host='botanichem.co.za', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8be5a0>: Failed to resolve 'botanichem.co.za' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1905042": {
+      "name": "Eperuline PW LS 9627",
+      "url": "https://botanichem.co.za/",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Botanichem, likely via one of their partners like BASF or JAKA",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.924686",
+      "error": "HTTPSConnectionPool(host='botanichem.co.za', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bf5c0>: Failed to resolve 'botanichem.co.za' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1901005": {
+      "name": "Arlamol LST-LQ-(MH)",
+      "url": "https://www.crodabeauty.com/en-gb/products",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Croda, part of their emollients range.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.927446",
+      "error": "HTTPSConnectionPool(host='www.crodabeauty.com', port=443): Max retries exceeded with url: /en-gb/products (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d88bad0>: Failed to resolve 'www.crodabeauty.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1905002": {
+      "name": "Chronodyn",
+      "url": "https://www.crodabeauty.com/en-gb/products",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Croda, likely a specialty active.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.929310",
+      "error": "HTTPSConnectionPool(host='www.crodabeauty.com', port=443): Max retries exceeded with url: /en-gb/products (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bd7f0>: Failed to resolve 'www.crodabeauty.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1905003": {
+      "name": "Biopeptide CL",
+      "url": "https://www.crodabeauty.com/en-gb/products",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Croda, a peptide-based active ingredient.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.931783",
+      "error": "HTTPSConnectionPool(host='www.crodabeauty.com', port=443): Max retries exceeded with url: /en-gb/products (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bd730>: Failed to resolve 'www.crodabeauty.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1905025": {
+      "name": "Skin Tightener-ST(TM) PH",
+      "url": "https://www.crodabeauty.com/en-gb/products",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Croda, a skin firming active.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.934120",
+      "error": "HTTPSConnectionPool(host='www.crodabeauty.com', port=443): Max retries exceeded with url: /en-gb/products (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bc740>: Failed to resolve 'www.crodabeauty.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1905026": {
+      "name": "Beautifeye",
+      "url": "https://www.crodabeauty.com/en-gb/products",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Croda, an active for eye contour care.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.935859",
+      "error": "HTTPSConnectionPool(host='www.crodabeauty.com', port=443): Max retries exceeded with url: /en-gb/products (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bd010>: Failed to resolve 'www.crodabeauty.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1905033": {
+      "name": "Evermat",
+      "url": "https://www.crodabeauty.com/en-gb/products",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Croda, a mattifying active ingredient.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.937779",
+      "error": "HTTPSConnectionPool(host='www.crodabeauty.com', port=443): Max retries exceeded with url: /en-gb/products (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bef00>: Failed to resolve 'www.crodabeauty.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1905034": {
+      "name": "Intenslim",
+      "url": "https://www.crodabeauty.com/en-gb/products",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Croda, a slimming active ingredient.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.940209",
+      "error": "HTTPSConnectionPool(host='www.crodabeauty.com', port=443): Max retries exceeded with url: /en-gb/products (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d88bb00>: Failed to resolve 'www.crodabeauty.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1905001": {
+      "name": "Rayolys D",
+      "url": "https://cpt.natchem.co.za/",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Natchem, likely a Greentech botanical active.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.942159",
+      "error": "HTTPSConnectionPool(host='cpt.natchem.co.za', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8beea0>: Failed to resolve 'cpt.natchem.co.za' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1905037": {
+      "name": "ARP 100",
+      "url": "https://cpt.natchem.co.za/",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Natchem, likely a Greentech botanical active.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.944404",
+      "error": "HTTPSConnectionPool(host='cpt.natchem.co.za', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bc590>: Failed to resolve 'cpt.natchem.co.za' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1905045": {
+      "name": "Meadowsweet Medulat 220016",
+      "url": "https://cpt.natchem.co.za/",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Natchem, likely a Greentech botanical active.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.946170",
+      "error": "HTTPSConnectionPool(host='cpt.natchem.co.za', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bda30>: Failed to resolve 'cpt.natchem.co.za' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1913000": {
+      "name": "Ivy Cosmelene Ext",
+      "url": "https://cpt.natchem.co.za/",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Natchem, likely a Greentech botanical active.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.948894",
+      "error": "HTTPSConnectionPool(host='cpt.natchem.co.za', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bdca0>: Failed to resolve 'cpt.natchem.co.za' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1913001": {
+      "name": "St John's Wort HG Ext",
+      "url": "https://cpt.natchem.co.za/",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Natchem, likely a Greentech botanical active.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.956461",
+      "error": "HTTPSConnectionPool(host='cpt.natchem.co.za', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bda00>: Failed to resolve 'cpt.natchem.co.za' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1913002": {
+      "name": "Soapwort HG (3009) Extr",
+      "url": "https://cpt.natchem.co.za/",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Natchem, likely a Greentech botanical active.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.963983",
+      "error": "HTTPSConnectionPool(host='cpt.natchem.co.za', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d993c20>: Failed to resolve 'cpt.natchem.co.za' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1913003": {
+      "name": "Horsetail Cosmelene Ext",
+      "url": "https://cpt.natchem.co.za/",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Natchem, likely a Greentech botanical active.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.969693",
+      "error": "HTTPSConnectionPool(host='cpt.natchem.co.za', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d9df1d0>: Failed to resolve 'cpt.natchem.co.za' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1913004": {
+      "name": "Centella Asiatica Cosmelene Ex",
+      "url": "https://cpt.natchem.co.za/",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Natchem, likely a Greentech botanical active.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.971925",
+      "error": "HTTPSConnectionPool(host='cpt.natchem.co.za', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bdbe0>: Failed to resolve 'cpt.natchem.co.za' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1913005": {
+      "name": "Yarrow Phytelene EG 472 Ext",
+      "url": "https://cpt.natchem.co.za/",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Natchem, likely a Greentech botanical active.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.974204",
+      "error": "HTTPSConnectionPool(host='cpt.natchem.co.za', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bc2c0>: Failed to resolve 'cpt.natchem.co.za' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1913006": {
+      "name": "Geranium HG Ext",
+      "url": "https://cpt.natchem.co.za/",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Natchem, likely a Greentech botanical active.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.976537",
+      "error": "HTTPSConnectionPool(host='cpt.natchem.co.za', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bcda0>: Failed to resolve 'cpt.natchem.co.za' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1913007": {
+      "name": "Lavender HG Ext",
+      "url": "https://cpt.natchem.co.za/",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Natchem, likely a Greentech botanical active.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.978868",
+      "error": "HTTPSConnectionPool(host='cpt.natchem.co.za', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bf320>: Failed to resolve 'cpt.natchem.co.za' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1913008": {
+      "name": "Rosemary HG Ext",
+      "url": "https://cpt.natchem.co.za/",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Natchem, likely a Greentech botanical active.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.981039",
+      "error": "HTTPSConnectionPool(host='cpt.natchem.co.za', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bfc80>: Failed to resolve 'cpt.natchem.co.za' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1913009": {
+      "name": "Arnica Phytenele EG 001 Ext",
+      "url": "https://cpt.natchem.co.za/",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Natchem, likely a Greentech botanical active.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.983195",
+      "error": "HTTPSConnectionPool(host='cpt.natchem.co.za', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d88b9e0>: Failed to resolve 'cpt.natchem.co.za' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1913011": {
+      "name": "Phytelene EGX 247 (BG) 620012",
+      "url": "https://cpt.natchem.co.za/",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Natchem, likely a Greentech botanical active.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.984934",
+      "error": "HTTPSConnectionPool(host='cpt.natchem.co.za', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bcfe0>: Failed to resolve 'cpt.natchem.co.za' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1913012": {
+      "name": "Phytelene EGX 773 (BG) 620032",
+      "url": "https://cpt.natchem.co.za/",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Natchem, likely a Greentech botanical active.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.986729",
+      "error": "HTTPSConnectionPool(host='cpt.natchem.co.za', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bccb0>: Failed to resolve 'cpt.natchem.co.za' ([Errno -5] No address associated with hostname)\"))"
+    },
+    "R1913013": {
+      "name": "Passion Flower Cosmelene",
+      "url": "https://cpt.natchem.co.za/",
+      "availability": "Available",
+      "pricing": "Contact for quote",
+      "notes": "From Natchem, likely a Greentech botanical active.",
+      "status": "offline",
+      "last_checked": "2025-09-23T13:05:09.988935",
+      "error": "HTTPSConnectionPool(host='cpt.natchem.co.za', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f4d1d8bc080>: Failed to resolve 'cpt.natchem.co.za' ([Errno -5] No address associated with hostname)\"))"
+    }
+  }
+}

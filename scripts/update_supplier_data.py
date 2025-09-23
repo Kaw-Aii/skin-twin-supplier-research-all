@@ -107,11 +107,50 @@ class SupplierResearcher:
         # Create backup
         backup_file = self.data_dir / f"RSNodes_backup_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
         if nodes_file.exists():
-            nodes_file.rename(backup_file)
+            import shutil
+            shutil.copy2(nodes_file, backup_file)
+            logger.info(f"Backup created: {backup_file}")
         
-        # Write updated data
-        # This would need to be implemented based on the specific CSV structure
-        logger.info("Supplier data updated successfully")
+        # Read the original CSV to preserve all data and structure
+        rows = []
+        if nodes_file.exists():
+            with open(nodes_file, 'r', encoding='utf-8') as f:
+                reader = csv.DictReader(f)
+                fieldnames = reader.fieldnames
+                
+                # Add website status fields if they don't exist
+                if 'website_status' not in fieldnames:
+                    fieldnames = list(fieldnames) + ['website_status', 'last_checked', 'response_time']
+                
+                for row in reader:
+                    # Update with new status information if available
+                    supplier_id = row['Id']
+                    if supplier_id in updates:
+                        update_data = updates[supplier_id]
+                        row['website_status'] = update_data.get('status', 'unknown')
+                        row['last_checked'] = update_data.get('last_checked', '')
+                        row['response_time'] = str(update_data.get('response_time', '')) if update_data.get('response_time') else ''
+                        
+                        # Update notes with any errors
+                        if 'error' in update_data:
+                            error_note = f"Website check error: {update_data['error'][:100]}..."
+                            current_notes = row.get('notes', '')
+                            if 'Website check error:' not in current_notes:
+                                row['notes'] = f"{current_notes}. {error_note}".strip('. ')
+                    
+                    rows.append(row)
+        
+        # Write updated data back to CSV
+        if rows:
+            with open(nodes_file, 'w', encoding='utf-8', newline='') as f:
+                writer = csv.DictWriter(f, fieldnames=fieldnames)
+                writer.writeheader()
+                writer.writerows(rows)
+            
+            logger.info(f"Updated supplier data saved to {nodes_file}")
+            logger.info(f"Updated {len([s for s in updates.values() if 'status' in s])} supplier records")
+        else:
+            logger.warning("No data to save")
     
     def generate_status_report(self, updates):
         """Generate a status report of the supplier research update."""
