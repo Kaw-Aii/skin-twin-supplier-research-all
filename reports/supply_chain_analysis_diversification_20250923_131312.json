@@ -1,0 +1,693 @@
+{
+  "timestamp": "2025-09-23T13:13:12.644051",
+  "summary": {
+    "total_ingredients": 91,
+    "single_sourced_count": 89,
+    "limited_sourced_count": 0,
+    "well_diversified_count": 0,
+    "diversification_percentage": 0.0
+  },
+  "critical_risks": [
+    {
+      "ingredient_id": "R1905018",
+      "ingredient_name": "Glyco Repair",
+      "supplier_id": "MEG0001",
+      "supplier_name": "Meganede CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905027",
+      "ingredient_name": "Deglysome",
+      "supplier_id": "MEG0001",
+      "supplier_name": "Meganede CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905035",
+      "ingredient_name": "Sebonormine OP",
+      "supplier_id": "MEG0001",
+      "supplier_name": "Meganede CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905041",
+      "ingredient_name": "Unflamagyl",
+      "supplier_id": "MEG0001",
+      "supplier_name": "Meganede CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905046",
+      "ingredient_name": "Dermapur HP OP",
+      "supplier_id": "MEG0001",
+      "supplier_name": "Meganede CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905048",
+      "ingredient_name": "Vitagenyl",
+      "supplier_id": "MEG0001",
+      "supplier_name": "Meganede CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905049",
+      "ingredient_name": "Detoxyl OP",
+      "supplier_id": "MEG0001",
+      "supplier_name": "Meganede CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905050",
+      "ingredient_name": "Celldetox",
+      "supplier_id": "MEG0001",
+      "supplier_name": "Meganede CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905051",
+      "ingredient_name": "Mitokinyl",
+      "supplier_id": "MEG0001",
+      "supplier_name": "Meganede CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905052",
+      "ingredient_name": "Fermiskin GR",
+      "supplier_id": "MEG0001",
+      "supplier_name": "Meganede CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905053",
+      "ingredient_name": "Retilactyl D",
+      "supplier_id": "MEG0001",
+      "supplier_name": "Meganede CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905054",
+      "ingredient_name": "Raffermine 2",
+      "supplier_id": "MEG0001",
+      "supplier_name": "Meganede CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905056",
+      "ingredient_name": "Eternaline",
+      "supplier_id": "MEG0001",
+      "supplier_name": "Meganede CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905057",
+      "ingredient_name": "Oxygeskin",
+      "supplier_id": "MEG0001",
+      "supplier_name": "Meganede CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905058",
+      "ingredient_name": "Aquaphyline EL",
+      "supplier_id": "MEG0001",
+      "supplier_name": "Meganede CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1907000",
+      "ingredient_name": "Perf Citrus Therm 701081",
+      "supplier_id": "06A0001",
+      "supplier_name": "o6 Agencies",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1908000",
+      "ingredient_name": "Azulene Pure (659833) *GRAM",
+      "supplier_id": "AEC001",
+      "supplier_name": "A&E Connock",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1902003",
+      "ingredient_name": "Iselux Ultra Mild",
+      "supplier_id": "AKU001",
+      "supplier_name": "AECI Specialty Chemicals",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905039",
+      "ingredient_name": "Epigenist LS10003",
+      "supplier_id": "BOT0003",
+      "supplier_name": "Botanichem",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905042",
+      "ingredient_name": "Eperuline PW LS 9627",
+      "supplier_id": "BOT0003",
+      "supplier_name": "Botanichem",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905011",
+      "ingredient_name": "CM-Glucan Granulate",
+      "supplier_id": "CAR0002",
+      "supplier_name": "Carst&Walker,div of Zenith Ho",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905012",
+      "ingredient_name": "Perfection Peptide P3",
+      "supplier_id": "CAR0002",
+      "supplier_name": "Carst&Walker,div of Zenith Ho",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905023",
+      "ingredient_name": "AquaCacteen",
+      "supplier_id": "CAR0002",
+      "supplier_name": "Carst&Walker,div of Zenith Ho",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905024",
+      "ingredient_name": "Happybelle-PE",
+      "supplier_id": "CAR0002",
+      "supplier_name": "Carst&Walker,div of Zenith Ho",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905047",
+      "ingredient_name": "Gatuline Derma - Sensitive",
+      "supplier_id": "CAR0002",
+      "supplier_name": "Carst&Walker,div of Zenith Ho",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1911000",
+      "ingredient_name": "Sucragel AOF",
+      "supplier_id": "CAR0002",
+      "supplier_name": "Carst&Walker,div of Zenith Ho",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1911001",
+      "ingredient_name": "Carbopol Ultrez 30",
+      "supplier_id": "CAR0002",
+      "supplier_name": "Carst&Walker,div of Zenith Ho",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1911003",
+      "ingredient_name": "Carbopol EDT 2050",
+      "supplier_id": "CAR0002",
+      "supplier_name": "Carst&Walker,div of Zenith Ho",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905016",
+      "ingredient_name": "Regu-Stretch",
+      "supplier_id": "CHE0004",
+      "supplier_name": "Chempure (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905017",
+      "ingredient_name": "Alpaflor Imperatoria",
+      "supplier_id": "CHE0004",
+      "supplier_name": "Chempure (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905021",
+      "ingredient_name": "L-Carnitine",
+      "supplier_id": "CHE0004",
+      "supplier_name": "Chempure (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1901001",
+      "ingredient_name": "Pomegranate Seed Oil",
+      "supplier_id": "CJP0001",
+      "supplier_name": "CJP Chemicals (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1901006",
+      "ingredient_name": "Borage Oil Refined GLA 20PCT",
+      "supplier_id": "CJP0001",
+      "supplier_name": "CJP Chemicals (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1902000",
+      "ingredient_name": "Oronal LCG",
+      "supplier_id": "CJP0001",
+      "supplier_name": "CJP Chemicals (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1902001",
+      "ingredient_name": "Proteol OAT",
+      "supplier_id": "CJP0001",
+      "supplier_name": "CJP Chemicals (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905014",
+      "ingredient_name": "Sepicalm S",
+      "supplier_id": "CJP0001",
+      "supplier_name": "CJP Chemicals (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1906000",
+      "ingredient_name": "Montanov L",
+      "supplier_id": "CJP0001",
+      "supplier_name": "CJP Chemicals (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1906001",
+      "ingredient_name": "Montanov S",
+      "supplier_id": "CJP0001",
+      "supplier_name": "CJP Chemicals (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1911002",
+      "ingredient_name": "Sepimax Zen",
+      "supplier_id": "CJP0001",
+      "supplier_name": "CJP Chemicals (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1913014",
+      "ingredient_name": "Grapefruit Oil Pink",
+      "supplier_id": "CLI0001",
+      "supplier_name": "Clive Teubes CC / Scatters Oils",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905004",
+      "ingredient_name": "Hyaluronic Acid HMW",
+      "supplier_id": "COS0007",
+      "supplier_name": "Cosmetic Ingredients (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1901005",
+      "ingredient_name": "Arlamol LST-LQ-(MH)",
+      "supplier_id": "CRO0001",
+      "supplier_name": "Croda Chemicals S.A (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905002",
+      "ingredient_name": "Chronodyn",
+      "supplier_id": "CRO0001",
+      "supplier_name": "Croda Chemicals S.A (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905003",
+      "ingredient_name": "Biopeptide CL",
+      "supplier_id": "CRO0001",
+      "supplier_name": "Croda Chemicals S.A (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905025",
+      "ingredient_name": "Skin Tightener-ST(TM) PH",
+      "supplier_id": "CRO0001",
+      "supplier_name": "Croda Chemicals S.A (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905026",
+      "ingredient_name": "Beautifeye",
+      "supplier_id": "CRO0001",
+      "supplier_name": "Croda Chemicals S.A (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905033",
+      "ingredient_name": "Evermat",
+      "supplier_id": "CRO0001",
+      "supplier_name": "Croda Chemicals S.A (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905034",
+      "ingredient_name": "Intenslim",
+      "supplier_id": "CRO0001",
+      "supplier_name": "Croda Chemicals S.A (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1901002",
+      "ingredient_name": "Cetiol Sensoft",
+      "supplier_id": "CTE0001",
+      "supplier_name": "Chemgrit Cosmetics (C-Tec)",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1901003",
+      "ingredient_name": "Cetiol B",
+      "supplier_id": "CTE0001",
+      "supplier_name": "Chemgrit Cosmetics (C-Tec)",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905019",
+      "ingredient_name": "Exfo-Bio",
+      "supplier_id": "CTE0001",
+      "supplier_name": "Chemgrit Cosmetics (C-Tec)",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905029",
+      "ingredient_name": "Cosmedia DC",
+      "supplier_id": "CTE0001",
+      "supplier_name": "Chemgrit Cosmetics (C-Tec)",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905030",
+      "ingredient_name": "Uvinul T150",
+      "supplier_id": "CTE0001",
+      "supplier_name": "Chemgrit Cosmetics (C-Tec)",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905043",
+      "ingredient_name": "Cetiol SB45",
+      "supplier_id": "CTE0001",
+      "supplier_name": "Chemgrit Cosmetics (C-Tec)",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905015",
+      "ingredient_name": "Aerosil R972",
+      "supplier_id": "EVO0001",
+      "supplier_name": "Protea Chemicals",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905022",
+      "ingredient_name": "Drieline 1S",
+      "supplier_id": "HEX0001",
+      "supplier_name": "Orkila",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905008",
+      "ingredient_name": "Hydranov P",
+      "supplier_id": "LIP0001",
+      "supplier_name": "Vantage Speciality Chemicals",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905055",
+      "ingredient_name": "Ceramidone",
+      "supplier_id": "LIP0001",
+      "supplier_name": "Vantage Speciality Chemicals",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905000",
+      "ingredient_name": "Allistin P5",
+      "supplier_id": "Maccullum",
+      "supplier_name": "Exsymol",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905020",
+      "ingredient_name": "LPD's Asiatic Centella",
+      "supplier_id": "MAT0002",
+      "supplier_name": "Materia Medica",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905009",
+      "ingredient_name": "Caffeine",
+      "supplier_id": "MER0001",
+      "supplier_name": "Merck (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905010",
+      "ingredient_name": "Malic Acid",
+      "supplier_id": "MER0001",
+      "supplier_name": "Merck (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905032",
+      "ingredient_name": "Ronacare AP",
+      "supplier_id": "MER0001",
+      "supplier_name": "Merck (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905044",
+      "ingredient_name": "Acnacidol BG",
+      "supplier_id": "MIL0001",
+      "supplier_name": "Millchem",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905001",
+      "ingredient_name": "Rayolys D",
+      "supplier_id": "NAT0001",
+      "supplier_name": "Natchem CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905037",
+      "ingredient_name": "ARP 100",
+      "supplier_id": "NAT0001",
+      "supplier_name": "Natchem CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905045",
+      "ingredient_name": "Meadowsweet Medulat 220016",
+      "supplier_id": "NAT0001",
+      "supplier_name": "Natchem CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1913000",
+      "ingredient_name": "Ivy Cosmelene Ext",
+      "supplier_id": "NAT0001",
+      "supplier_name": "Natchem CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1913001",
+      "ingredient_name": "St John's Wort HG Ext",
+      "supplier_id": "NAT0001",
+      "supplier_name": "Natchem CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1913002",
+      "ingredient_name": "Soapwort HG (3009) Extr",
+      "supplier_id": "NAT0001",
+      "supplier_name": "Natchem CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1913003",
+      "ingredient_name": "Horsetail Cosmelene Ext",
+      "supplier_id": "NAT0001",
+      "supplier_name": "Natchem CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1913004",
+      "ingredient_name": "Centella Asiatica Cosmelene Ex",
+      "supplier_id": "NAT0001",
+      "supplier_name": "Natchem CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1913005",
+      "ingredient_name": "Yarrow Phytelene EG 472 Ext",
+      "supplier_id": "NAT0001",
+      "supplier_name": "Natchem CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1913006",
+      "ingredient_name": "Geranium HG Ext",
+      "supplier_id": "NAT0001",
+      "supplier_name": "Natchem CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1913007",
+      "ingredient_name": "Lavender HG Ext",
+      "supplier_id": "NAT0001",
+      "supplier_name": "Natchem CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1913008",
+      "ingredient_name": "Rosemary HG Ext",
+      "supplier_id": "NAT0001",
+      "supplier_name": "Natchem CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1913009",
+      "ingredient_name": "Arnica Phytenele EG 001 Ext",
+      "supplier_id": "NAT0001",
+      "supplier_name": "Natchem CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1913011",
+      "ingredient_name": "Phytelene EGX 247 (BG) 620012",
+      "supplier_id": "NAT0001",
+      "supplier_name": "Natchem CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1913012",
+      "ingredient_name": "Phytelene EGX 773 (BG) 620032",
+      "supplier_id": "NAT0001",
+      "supplier_name": "Natchem CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1913013",
+      "ingredient_name": "Passion Flower Cosmelene",
+      "supplier_id": "NAT0001",
+      "supplier_name": "Natchem CC",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1902002",
+      "ingredient_name": "Rewoderm S1333 KM 5",
+      "supplier_id": "ORC0001",
+      "supplier_name": "Orchem",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1902999",
+      "ingredient_name": "ColaMate RM / replacement Rewoderm S1333 KM 5",
+      "supplier_id": "ORC0001",
+      "supplier_name": "Orchem",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1901004",
+      "ingredient_name": "Waglinol 3/929",
+      "supplier_id": "SAV0001",
+      "supplier_name": "Savannah Fine Chem (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905005",
+      "ingredient_name": "AA2G",
+      "supplier_id": "SAV0001",
+      "supplier_name": "Savannah Fine Chem (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905006",
+      "ingredient_name": "Hydromanil",
+      "supplier_id": "SAV0001",
+      "supplier_name": "Savannah Fine Chem (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905007",
+      "ingredient_name": "Acquacell",
+      "supplier_id": "SAV0001",
+      "supplier_name": "Savannah Fine Chem (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905031",
+      "ingredient_name": "Ten's Up",
+      "supplier_id": "SAV0001",
+      "supplier_name": "Savannah Fine Chem (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905028",
+      "ingredient_name": "Celligent",
+      "supplier_id": "SIY0002",
+      "supplier_name": "IMCD South Africa (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "ingredient_id": "R1905040",
+      "ingredient_name": "Defensil Plus",
+      "supplier_id": "SIY0002",
+      "supplier_name": "IMCD South Africa (Pty) Ltd",
+      "risk_level": "CRITICAL"
+    }
+  ],
+  "high_risks": [],
+  "alternative_recommendations": [
+    {
+      "ingredient": "Glyco Repair",
+      "current_supplier": "Meganede CC",
+      "suggested_alternatives": []
+    },
+    {
+      "ingredient": "Deglysome",
+      "current_supplier": "Meganede CC",
+      "suggested_alternatives": []
+    },
+    {
+      "ingredient": "Sebonormine OP",
+      "current_supplier": "Meganede CC",
+      "suggested_alternatives": []
+    },
+    {
+      "ingredient": "Unflamagyl",
+      "current_supplier": "Meganede CC",
+      "suggested_alternatives": []
+    },
+    {
+      "ingredient": "Dermapur HP OP",
+      "current_supplier": "Meganede CC",
+      "suggested_alternatives": []
+    },
+    {
+      "ingredient": "Vitagenyl",
+      "current_supplier": "Meganede CC",
+      "suggested_alternatives": []
+    },
+    {
+      "ingredient": "Detoxyl OP",
+      "current_supplier": "Meganede CC",
+      "suggested_alternatives": []
+    },
+    {
+      "ingredient": "Celldetox",
+      "current_supplier": "Meganede CC",
+      "suggested_alternatives": []
+    },
+    {
+      "ingredient": "Mitokinyl",
+      "current_supplier": "Meganede CC",
+      "suggested_alternatives": []
+    },
+    {
+      "ingredient": "Fermiskin GR",
+      "current_supplier": "Meganede CC",
+      "suggested_alternatives": []
+    }
+  ],
+  "action_plan": {
+    "immediate_priority": 89,
+    "medium_priority": 0,
+    "recommendation": "Focus on identifying alternative suppliers for the 89 single-sourced ingredients"
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "timestamp": "2025-09-23T13:15:07.610471",
+  "strategic_suppliers": [
+    {
+      "supplier_id": "NAT0001",
+      "supplier_name": "Natchem CC",
+      "ingredient_count": 16,
+      "market_share_pct": 17.6,
+      "relationship_strength": "MODERATE",
+      "contact_info_complete": true,
+      "website_status": "unknown",
+      "specialization": "Botanical Actives"
+    },
+    {
+      "supplier_id": "MEG0001",
+      "supplier_name": "Meganede CC",
+      "ingredient_count": 15,
+      "market_share_pct": 16.5,
+      "relationship_strength": "MODERATE",
+      "contact_info_complete": true,
+      "website_status": "unknown",
+      "specialization": "Biotech Ingredients"
+    },
+    {
+      "supplier_id": "CAR0002",
+      "supplier_name": "Carst&Walker,div of Zenith Ho",
+      "ingredient_count": 8,
+      "market_share_pct": 8.8,
+      "relationship_strength": "WEAK",
+      "contact_info_complete": false,
+      "website_status": "unknown",
+      "specialization": "General Ingredients"
+    },
+    {
+      "supplier_id": "CJP0001",
+      "supplier_name": "CJP Chemicals (Pty) Ltd",
+      "ingredient_count": 8,
+      "market_share_pct": 8.8,
+      "relationship_strength": "WEAK",
+      "contact_info_complete": false,
+      "website_status": "unknown",
+      "specialization": "General Ingredients"
+    },
+    {
+      "supplier_id": "CRO0001",
+      "supplier_name": "Croda Chemicals S.A (Pty) Ltd",
+      "ingredient_count": 7,
+      "market_share_pct": 7.7,
+      "relationship_strength": "MODERATE",
+      "contact_info_complete": true,
+      "website_status": "unknown",
+      "specialization": "Advanced Chemicals"
+    },
+    {
+      "supplier_id": "CTE0001",
+      "supplier_name": "Chemgrit Cosmetics (C-Tec)",
+      "ingredient_count": 6,
+      "market_share_pct": 6.6,
+      "relationship_strength": "WEAK",
+      "contact_info_complete": false,
+      "website_status": "unknown",
+      "specialization": "General Ingredients"
+    },
+    {
+      "supplier_id": "SAV0001",
+      "supplier_name": "Savannah Fine Chem (Pty) Ltd",
+      "ingredient_count": 5,
+      "market_share_pct": 5.5,
+      "relationship_strength": "WEAK",
+      "contact_info_complete": false,
+      "website_status": "unknown",
+      "specialization": "General Ingredients"
+    },
+    {
+      "supplier_id": "CHE0004",
+      "supplier_name": "Chempure (Pty) Ltd",
+      "ingredient_count": 3,
+      "market_share_pct": 3.3,
+      "relationship_strength": "WEAK",
+      "contact_info_complete": false,
+      "website_status": "unknown",
+      "specialization": "General Ingredients"
+    },
+    {
+      "supplier_id": "MER0001",
+      "supplier_name": "Merck (Pty) Ltd",
+      "ingredient_count": 3,
+      "market_share_pct": 3.3,
+      "relationship_strength": "WEAK",
+      "contact_info_complete": false,
+      "website_status": "unknown",
+      "specialization": "General Ingredients"
+    },
+    {
+      "supplier_id": "BOT0003",
+      "supplier_name": "Botanichem",
+      "ingredient_count": 2,
+      "market_share_pct": 2.2,
+      "relationship_strength": "MODERATE",
+      "contact_info_complete": true,
+      "website_status": "unknown",
+      "specialization": "General Ingredients"
+    },
+    {
+      "supplier_id": "LIP0001",
+      "supplier_name": "Vantage Speciality Chemicals",
+      "ingredient_count": 2,
+      "market_share_pct": 2.2,
+      "relationship_strength": "WEAK",
+      "contact_info_complete": false,
+      "website_status": "unknown",
+      "specialization": "General Ingredients"
+    },
+    {
+      "supplier_id": "ORC0001",
+      "supplier_name": "Orchem",
+      "ingredient_count": 2,
+      "market_share_pct": 2.2,
+      "relationship_strength": "WEAK",
+      "contact_info_complete": false,
+      "website_status": "unknown",
+      "specialization": "General Ingredients"
+    },
+    {
+      "supplier_id": "SIY0002",
+      "supplier_name": "IMCD South Africa (Pty) Ltd",
+      "ingredient_count": 2,
+      "market_share_pct": 2.2,
+      "relationship_strength": "WEAK",
+      "contact_info_complete": false,
+      "website_status": "unknown",
+      "specialization": "General Ingredients"
+    },
+    {
+      "supplier_id": "06A0001",
+      "supplier_name": "o6 Agencies",
+      "ingredient_count": 1,
+      "market_share_pct": 1.1,
+      "relationship_strength": "MODERATE",
+      "contact_info_complete": true,
+      "website_status": "unknown",
+      "specialization": "Fragrances & Oils"
+    },
+    {
+      "supplier_id": "AEC001",
+      "supplier_name": "A&E Connock",
+      "ingredient_count": 1,
+      "market_share_pct": 1.1,
+      "relationship_strength": "MODERATE",
+      "contact_info_complete": true,
+      "website_status": "unknown",
+      "specialization": "General Ingredients"
+    },
+    {
+      "supplier_id": "AKU001",
+      "supplier_name": "AECI Specialty Chemicals",
+      "ingredient_count": 1,
+      "market_share_pct": 1.1,
+      "relationship_strength": "MODERATE",
+      "contact_info_complete": true,
+      "website_status": "unknown",
+      "specialization": "General Ingredients"
+    },
+    {
+      "supplier_id": "CLI0001",
+      "supplier_name": "Clive Teubes CC / Scatters Oils",
+      "ingredient_count": 1,
+      "market_share_pct": 1.1,
+      "relationship_strength": "WEAK",
+      "contact_info_complete": false,
+      "website_status": "unknown",
+      "specialization": "General Ingredients"
+    },
+    {
+      "supplier_id": "COS0007",
+      "supplier_name": "Cosmetic Ingredients (Pty) Ltd",
+      "ingredient_count": 1,
+      "market_share_pct": 1.1,
+      "relationship_strength": "WEAK",
+      "contact_info_complete": false,
+      "website_status": "unknown",
+      "specialization": "General Ingredients"
+    },
+    {
+      "supplier_id": "EVO0001",
+      "supplier_name": "Protea Chemicals",
+      "ingredient_count": 1,
+      "market_share_pct": 1.1,
+      "relationship_strength": "WEAK",
+      "contact_info_complete": false,
+      "website_status": "unknown",
+      "specialization": "General Ingredients"
+    },
+    {
+      "supplier_id": "HEX0001",
+      "supplier_name": "Orkila",
+      "ingredient_count": 1,
+      "market_share_pct": 1.1,
+      "relationship_strength": "WEAK",
+      "contact_info_complete": false,
+      "website_status": "unknown",
+      "specialization": "General Ingredients"
+    },
+    {
+      "supplier_id": "Maccullum",
+      "supplier_name": "Exsymol",
+      "ingredient_count": 1,
+      "market_share_pct": 1.1,
+      "relationship_strength": "WEAK",
+      "contact_info_complete": false,
+      "website_status": "unknown",
+      "specialization": "General Ingredients"
+    },
+    {
+      "supplier_id": "MAT0002",
+      "supplier_name": "Materia Medica",
+      "ingredient_count": 1,
+      "market_share_pct": 1.1,
+      "relationship_strength": "WEAK",
+      "contact_info_complete": false,
+      "website_status": "unknown",
+      "specialization": "General Ingredients"
+    },
+    {
+      "supplier_id": "MIL0001",
+      "supplier_name": "Millchem",
+      "ingredient_count": 1,
+      "market_share_pct": 1.1,
+      "relationship_strength": "WEAK",
+      "contact_info_complete": false,
+      "website_status": "unknown",
+      "specialization": "General Ingredients"
+    }
+  ],
+  "top_partnerships": [
+    {
+      "supplier_id": "NAT0001",
+      "supplier_name": "Natchem CC",
+      "ingredient_count": 16,
+      "market_share_pct": 17.6,
+      "relationship_strength": "MODERATE",
+      "contact_info_complete": true,
+      "website_status": "unknown",
+      "specialization": "Botanical Actives"
+    },
+    {
+      "supplier_id": "MEG0001",
+      "supplier_name": "Meganede CC",
+      "ingredient_count": 15,
+      "market_share_pct": 16.5,
+      "relationship_strength": "MODERATE",
+      "contact_info_complete": true,
+      "website_status": "unknown",
+      "specialization": "Biotech Ingredients"
+    },
+    {
+      "supplier_id": "CAR0002",
+      "supplier_name": "Carst&Walker,div of Zenith Ho",
+      "ingredient_count": 8,
+      "market_share_pct": 8.8,
+      "relationship_strength": "WEAK",
+      "contact_info_complete": false,
+      "website_status": "unknown",
+      "specialization": "General Ingredients"
+    },
+    {
+      "supplier_id": "CJP0001",
+      "supplier_name": "CJP Chemicals (Pty) Ltd",
+      "ingredient_count": 8,
+      "market_share_pct": 8.8,
+      "relationship_strength": "WEAK",
+      "contact_info_complete": false,
+      "website_status": "unknown",
+      "specialization": "General Ingredients"
+    },
+    {
+      "supplier_id": "CRO0001",
+      "supplier_name": "Croda Chemicals S.A (Pty) Ltd",
+      "ingredient_count": 7,
+      "market_share_pct": 7.7,
+      "relationship_strength": "MODERATE",
+      "contact_info_complete": true,
+      "website_status": "unknown",
+      "specialization": "Advanced Chemicals"
+    }
+  ],
+  "relationship_recommendations": [
+    {
+      "supplier": "Natchem CC",
+      "priority": "HIGH",
+      "actions": [
+        "Negotiate volume-based pricing and early access to new products",
+        "Establish regular communication schedule and technical support channels"
+      ]
+    },
+    {
+      "supplier": "Meganede CC",
+      "priority": "HIGH",
+      "actions": [
+        "Negotiate volume-based pricing and early access to new products",
+        "Establish regular communication schedule and technical support channels"
+      ]
+    },
+    {
+      "supplier": "Carst&Walker,div of Zenith Ho",
+      "priority": "MEDIUM",
+      "actions": [
+        "Establish direct contact and gather complete contact information",
+        "Schedule relationship building meetings and establish partnership agreements",
+        "Negotiate volume-based pricing and early access to new products",
+        "Establish regular communication schedule and technical support channels"
+      ]
+    },
+    {
+      "supplier": "CJP Chemicals (Pty) Ltd",
+      "priority": "MEDIUM",
+      "actions": [
+        "Establish direct contact and gather complete contact information",
+        "Schedule relationship building meetings and establish partnership agreements",
+        "Negotiate volume-based pricing and early access to new products",
+        "Establish regular communication schedule and technical support channels"
+      ]
+    },
+    {
+      "supplier": "Croda Chemicals S.A (Pty) Ltd",
+      "priority": "MEDIUM",
+      "actions": [
+        "Negotiate volume-based pricing and early access to new products",
+        "Establish regular communication schedule and technical support channels"
+      ]
+    }
+  ],
+  "summary": {
+    "total_suppliers": 23,
+    "active_relationships": 0,
+    "top_5_market_share": 54
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-09-23T13:08:36.056555",
+  "summary": {
+    "total_ingredients": 98,
+    "single_sourced_count": 0,
+    "limited_sourced_count": 0,
+    "well_diversified_count": 0,
+    "diversification_percentage": 0.0
+  },
+  "critical_risks": [],
+  "high_risks": [],
+  "alternative_recommendations": [],
+  "action_plan": {
+    "immediate_priority": 0,
+    "medium_priority": 0,
+    "recommendation": "Focus on identifying alternative suppliers for the 0 single-sourced ingredients"
+  }
+}

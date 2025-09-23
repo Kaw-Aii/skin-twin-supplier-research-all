@@ -1,0 +1,203 @@
+{
+  "timestamp": "2025-09-23T13:14:55.884447",
+  "pricing_categories": {
+    "transparent_pricing": [
+      {
+        "supplier_id": "BOT0003",
+        "supplier_name": "Botanichem",
+        "pricing_info": "R352.35 - R10",
+        "ingredient_count": 2,
+        "url": "318.45"
+      }
+    ],
+    "quote_based": [
+      {
+        "supplier_id": "06A0001",
+        "supplier_name": "o6 Agencies",
+        "pricing_info": "Contact for quote",
+        "ingredient_count": 1,
+        "url": "https://o6southafrica.com/"
+      },
+      {
+        "supplier_id": "AEC001",
+        "supplier_name": "A&E Connock",
+        "pricing_info": "Contact for quote",
+        "ingredient_count": 1,
+        "url": "https://connock.co.uk/"
+      },
+      {
+        "supplier_id": "AKU001",
+        "supplier_name": "AECI Specialty Chemicals",
+        "pricing_info": "Contact for quote",
+        "ingredient_count": 1,
+        "url": "https://sc.aecichemicals.co.za/"
+      },
+      {
+        "supplier_id": "CRO0001",
+        "supplier_name": "Croda Chemicals S.A (Pty) Ltd",
+        "pricing_info": "Contact for quote",
+        "ingredient_count": 7,
+        "url": "https://www.croda.com/en-gb/about-us/where-we-operate/emea/south-africa"
+      },
+      {
+        "supplier_id": "MEG0001",
+        "supplier_name": "Meganede CC",
+        "pricing_info": "Contact for quote",
+        "ingredient_count": 15,
+        "url": "https://www.meganede.com/"
+      },
+      {
+        "supplier_id": "NAT0001",
+        "supplier_name": "Natchem CC",
+        "pricing_info": "Contact for quote",
+        "ingredient_count": 16,
+        "url": "https://cpt.natchem.co.za/"
+      }
+    ],
+    "no_pricing_info": [
+      {
+        "supplier_id": "CAR0002",
+        "supplier_name": "Carst&Walker,div of Zenith Ho",
+        "pricing_info": "Unknown",
+        "ingredient_count": 8,
+        "url": "Unknown"
+      },
+      {
+        "supplier_id": "CHE0004",
+        "supplier_name": "Chempure (Pty) Ltd",
+        "pricing_info": "Unknown",
+        "ingredient_count": 3,
+        "url": "Unknown"
+      },
+      {
+        "supplier_id": "CJP0001",
+        "supplier_name": "CJP Chemicals (Pty) Ltd",
+        "pricing_info": "Unknown",
+        "ingredient_count": 8,
+        "url": "Unknown"
+      },
+      {
+        "supplier_id": "CLI0001",
+        "supplier_name": "Clive Teubes CC / Scatters Oils",
+        "pricing_info": "Unknown",
+        "ingredient_count": 1,
+        "url": "Unknown"
+      },
+      {
+        "supplier_id": "COS0007",
+        "supplier_name": "Cosmetic Ingredients (Pty) Ltd",
+        "pricing_info": "Unknown",
+        "ingredient_count": 1,
+        "url": "Unknown"
+      },
+      {
+        "supplier_id": "CTE0001",
+        "supplier_name": "Chemgrit Cosmetics (C-Tec)",
+        "pricing_info": "Unknown",
+        "ingredient_count": 6,
+        "url": "Unknown"
+      },
+      {
+        "supplier_id": "EVO0001",
+        "supplier_name": "Protea Chemicals",
+        "pricing_info": "Unknown",
+        "ingredient_count": 1,
+        "url": "Unknown"
+      },
+      {
+        "supplier_id": "HEX0001",
+        "supplier_name": "Orkila",
+        "pricing_info": "Unknown",
+        "ingredient_count": 1,
+        "url": "Unknown"
+      },
+      {
+        "supplier_id": "LIP0001",
+        "supplier_name": "Vantage Speciality Chemicals",
+        "pricing_info": "Unknown",
+        "ingredient_count": 2,
+        "url": "Unknown"
+      },
+      {
+        "supplier_id": "Maccullum",
+        "supplier_name": "Exsymol",
+        "pricing_info": "Unknown",
+        "ingredient_count": 1,
+        "url": "Unknown"
+      },
+      {
+        "supplier_id": "MAT0002",
+        "supplier_name": "Materia Medica",
+        "pricing_info": "Unknown",
+        "ingredient_count": 1,
+        "url": "Unknown"
+      },
+      {
+        "supplier_id": "MER0001",
+        "supplier_name": "Merck (Pty) Ltd",
+        "pricing_info": "Unknown",
+        "ingredient_count": 3,
+        "url": "Unknown"
+      },
+      {
+        "supplier_id": "MIL0001",
+        "supplier_name": "Millchem",
+        "pricing_info": "Unknown",
+        "ingredient_count": 1,
+        "url": "Unknown"
+      },
+      {
+        "supplier_id": "ORC0001",
+        "supplier_name": "Orchem",
+        "pricing_info": "Unknown",
+        "ingredient_count": 2,
+        "url": "Unknown"
+      },
+      {
+        "supplier_id": "SAV0001",
+        "supplier_name": "Savannah Fine Chem (Pty) Ltd",
+        "pricing_info": "Unknown",
+        "ingredient_count": 5,
+        "url": "Unknown"
+      },
+      {
+        "supplier_id": "SIY0002",
+        "supplier_name": "IMCD South Africa (Pty) Ltd",
+        "pricing_info": "Unknown",
+        "ingredient_count": 2,
+        "url": "Unknown"
+      }
+    ]
+  },
+  "transparency_metrics": {
+    "transparent_suppliers": 1,
+    "quote_based_suppliers": 6,
+    "transparency_percentage": 4.3
+  },
+  "improvement_actions": [
+    {
+      "supplier": "Croda Chemicals S.A (Pty) Ltd",
+      "action": "Request comprehensive pricing list for all 7 ingredients",
+      "priority": "HIGH",
+      "expected_outcome": "Establish baseline pricing for comparison and negotiation"
+    },
+    {
+      "supplier": "Meganede CC",
+      "action": "Request comprehensive pricing list for all 15 ingredients",
+      "priority": "HIGH",
+      "expected_outcome": "Establish baseline pricing for comparison and negotiation"
+    },
+    {
+      "supplier": "Natchem CC",
+      "action": "Request comprehensive pricing list for all 16 ingredients",
+      "priority": "HIGH",
+      "expected_outcome": "Establish baseline pricing for comparison and negotiation"
+    }
+  ],
+  "competitive_bidding_opportunities": [],
+  "recommendations": {
+    "immediate": "Request quotes from top 3 suppliers for systematic price comparison",
+    "systematic": "Implement quarterly pricing surveys for all major ingredients",
+    "competitive": "Establish competitive bidding process for 0 multi-sourced ingredients"
+  }
+}
