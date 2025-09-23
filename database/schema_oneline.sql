@@ -1,0 +1,1 @@
+             CREATE INDEX IF NOT EXISTS idx_ingredients_code ON ingredients(ingredient_code); CREATE INDEX IF NOT EXISTS idx_hypergraph_nodes_type ON hypergraph_nodes(node_type); CREATE INDEX IF NOT EXISTS idx_hypergraph_edges_type ON hypergraph_edges(edge_type); 
