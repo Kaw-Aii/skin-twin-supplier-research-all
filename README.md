@@ -91,6 +91,25 @@ The `scripts/update_supplier_data.py` provides:
 - Data validation and backup systems
 - JSON status reports with timestamps
 
+### Supply Chain Analysis Tool
+The new `scripts/supply_chain_analyzer.py` implements the strategic recommendations with comprehensive analysis:
+- **4.1 Supplier Diversification**: Identifies single-sourced ingredients (89 critical risks found)
+- **4.2 Supplier Relationships**: Analyzes strategic partnerships and relationship strength
+- **4.3 Pricing Transparency**: Evaluates pricing visibility (currently 4.3% transparency)
+- **4.4 Sourcing Strategy**: Assesses local vs international supplier balance (89.9% local dependency)
+
+Usage:
+```bash
+# Run comprehensive analysis for all strategic recommendations
+python scripts/supply_chain_analyzer.py --analysis-type all
+
+# Run specific analysis
+python scripts/supply_chain_analyzer.py --analysis-type diversification
+python scripts/supply_chain_analyzer.py --analysis-type relationships
+python scripts/supply_chain_analyzer.py --analysis-type pricing
+python scripts/supply_chain_analyzer.py --analysis-type sourcing
+```
+
 ## Strategic Applications
 
 ### Supply Chain Risk Management
