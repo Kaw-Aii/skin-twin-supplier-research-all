@@ -36,7 +36,7 @@ logger = logging.getLogger(__name__)
 class SupplierResearcher:
     """Automated supplier research and data update system."""
     
-    def __init__(self, data_dir="data", reports_dir="reports"):
+    def __init__(self, data_dir="../data", reports_dir="../reports"):
         self.data_dir = Path(data_dir)
         self.reports_dir = Path(reports_dir)
         self.suppliers = {}
