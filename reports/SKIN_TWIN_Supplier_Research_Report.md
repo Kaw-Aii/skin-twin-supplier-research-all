@@ -176,3 +176,99 @@ Future research should focus on expanding the supplier base analysis to cover th
 8. [Carst & Walker South Africa](https://carst.com/south-africa/)
 9. [Silab Engineering Natural Active Ingredients](https://www.silab.fr/en)
 10. [Greentech Botanical Active Ingredients](https://www.greentech.fr/)
+
+
+
+'''# SKIN-TWIN Supplier Research Report
+
+**Date:** September 23, 2025
+
+**Author:** Manus AI
+
+## 1. Introduction
+
+This report presents a comprehensive analysis of the South African skincare ingredient supplier network for the SKIN-TWIN project. The research systematically investigates 23 suppliers to update product availability, pricing information, and supplier capabilities. The findings are intended to inform strategic sourcing decisions, mitigate supply chain risks, and identify cost optimization opportunities. The hypergraph data, representing the complex relationships between suppliers and ingredients, has been updated and synchronized with the project's databases.
+'''
+
+
+## 2. Key Findings
+
+The research into the 23 South African skincare ingredient suppliers has revealed several critical insights into the market landscape. These findings highlight the structure of the supplier network, identify key players, and expose potential risks and opportunities.
+
+### 2.1. Market Consolidation and Key Players
+
+The supplier network is characterized by a mix of large international distributors and smaller, specialized local companies. A few key players dominate the supply of specialized and active ingredients:
+
+- **Natchem CC** and **Meganede CC** have the largest portfolios of ingredients within the SKIN-TWIN network, acting as exclusive distributors for international brands like Greentech and Silab, respectively.
+- **Croda Chemicals** stands out as a major international supplier with a strong local presence, offering a wide range of innovative and high-performance ingredients.
+- **Botanichem** is notable for its transparent online pricing, a practice not observed with other major suppliers.
+- Several suppliers, including **Chemgrit Cosmetics (C-Tec)** and **Orkila**, have been acquired by larger international chemical distributors (**Brenntag** and **Azelis**, respectively), indicating a trend of consolidation in the market.
+
+### 2.2. Pricing and Availability
+
+Pricing information is largely opaque across the network, with most suppliers requiring direct contact for quotes. This lack of transparency makes direct cost comparison challenging. However, the research has successfully updated the availability status for a significant portion of the ingredient portfolio.
+
+### 2.3. Supply Chain Risks
+
+The primary risk identified is the high level of single-sourcing for many critical ingredients. This dependency on a single supplier for a specific ingredient poses a significant risk to the supply chain. Additionally, the geographic concentration of suppliers within South Africa could present logistical challenges.
+
+
+
+## 3. Supplier Profiles
+
+This section provides a detailed overview of each of the 23 suppliers researched. The table below summarizes their website status, key findings, and contact information.
+
+| Supplier Name | Website | Key Findings | Contact Information |
+| :--- | :--- | :--- | :--- |
+| **o6 Agencies** | [https://o6southafrica.com/](https://o6southafrica.com/) | Primarily a fragrance and flavour supplier, offering 'Personal Care' fragrances. No specific raw skincare ingredients listed. | Adam: 083 297 4133, mcqueen@o6southafrica.com, richard@o6southafrica.com, Office: 011 234 8399 |
+| **A&E Connock** | [https://connock.co.uk/](https://connock.co.uk/) | UK-based supplier with a comprehensive 2025 product list. New products include CONNOCK® ROMAN CHAMOMILE OIL ENGLISH and SILICONE ALTERNATIVES. | Phone: +44 (0)1425 653367, Email: sales@connock.com |
+| **AECI Specialty Chemicals** | [https://sc.aecichemicals.co.za/](https://sc.aecichemicals.co.za/) | Website is active but key sections like 'Our Products' and 'Contact Us' are broken. | Contact page returns 404 error. |
+| **Botanichem** | [https://botanichem.co.za/](https://botanichem.co.za/) | Online shop with transparent pricing. Wide range of cosmetic ingredients available. | Email: info@botanichem.co.za, Tel: 011 425 2206 |
+| **Carst & Walker** | [https://carstwalker.com/](https://carstwalker.com/) | Active supplier of specialty chemicals. Recently announced new skincare ingredients like PhytoCellTec™ Malus Domestica. | Phone: +27 (0) 11 489 3600 |
+| **Chempure (Pty) Ltd** | [https://chempure.co.za/](https://chempure.co.za/) | Comprehensive range of skincare and cosmetic ingredients with detailed descriptions. | Tel: 012 349-1543/4/5/6, queries@chempure.co.za |
+| **CJP Chemicals (Pty) Ltd** | [https://cjpchemicals.co.za/](https://cjpchemicals.co.za/) | Extensive personal care ingredient portfolio with detailed categorization. | Phone: +27 (0) 11 494 6700, Email: info@cjpchemicals.co.za |
+| **Clive Teubes CC / Scatters Oils** | [https://teubes.com/](https://teubes.com/) | Offers over 50 varieties of essential oils and isolates. Scatters Oils USA offers over 350 different oils. | deliwe@teubes.com, team@scattersoilsusa.com, (904) 994 3205 |
+| **Cosmetic Ingredients (Pty) Ltd** | [https://cosmetic-ingredients.co.za/](https://cosmetic-ingredients.co.za/) | Distributes ingredients from international principals and offers locally blended ingredients. | Email: info@cosmetic-ingredients.co.za, Phone: +27 12 653 3376 |
+| **Croda Chemicals S.A (Pty) Ltd** | [https://www.croda.com/en-gb/](https://www.croda.com/en-gb/) | Major international supplier with a strong local presence. 630 skincare products listed. | Tel: +27 11 397 2380 |
+| **Chemgrit Cosmetics (C-Tec)** | [https://www.brenntag.com/en-za/](https://www.brenntag.com/en-za/) | Acquired by Brenntag South Africa. Comprehensive portfolio of personal care ingredients. | Email: charis.lewis@brenntag.co.za, Phone: +27 11 397 4455 |
+| **Protea Chemicals** | [https://www.omnia.co.za/](https://www.omnia.co.za/) | Trusted distributor and manufacturer with a diverse portfolio for various care sectors. | Telephone: +27 11 821 3300 |
+| **Orkila** | [https://www.azelis.com/](https://www.azelis.com/) | Acquired by Azelis in 2019. Wide range of specialty chemicals and food ingredients. | Phone: +27-31-5368297 |
+| **Vantage Speciality Chemicals** | [https://www.vantagegrp.com/](https://www.vantagegrp.com/) | 315 products in the Personal Care & Beauty category. Launched four new ingredients in March 2025. | General inquiries via website contact form. |
+| **Exsymol** | [https://www.exsymol.com/](https://www.exsymol.com/) | Designer of cosmetic ingredients specializing in organic silicium (Silanols), peptides, and natural extracts. | customerservice@exsymol.com, +377 92 05 66 77 |
+| **Materia Medica** | [https://materiamedica.co.za/](https://materiamedica.co.za/) | Imports and markets specialized botanical actives. Basic website with limited information. | Phone: +27 72 731 3909, E-mail: chantal@materiamedica.co.za |
+| **Meganede CC** | [https://www.meganede.com/](https://www.meganede.com/) | Distributor for Silab in South Africa. 114 Silab ingredients available, including the new Inclusium. | Email: info@meganede.com |
+| **Merck (Pty) Ltd** | [https://susonity.com/](https://susonity.com/) | RonaCare range of beauty and personal care ingredients now operates under Susonity. | Susonity: customersupport@susonity.com; Merck SA: +27 11 372 5000 |
+| **Millchem** | [https://millchem.co.za/](https://millchem.co.za/) | Distributes products from various international partners. Focus on sanitizing solutions and sun care. | Johannesburg: +27 (0)11 974 2255, Cape Town: +27 (0)21 557 6527/8, Durban: +27 (0)31 569-1486 |
+| **Natchem CC** | [https://cpt.natchem.co.za/](https://cpt.natchem.co.za/) | Largest supplier portfolio in the hypergraph. Exclusive distributor for Greentech in South Africa. | David (Sales), Annamaria (Office), Riana (Pretoria), Kim (Durban/JHB), Deirdre (Cape Town/JHB) |
+| **Orchem** | [https://orchem.co.za/](https://orchem.co.za/) | Distributor of specialty chemicals for the Personal Care industry. Limited product information on website. | Johannesburg: +27 11 465 6353, Durban: +27 31 100 80 40 |
+| **Savannah Fine Chem (Pty) Ltd** | [https://savannah.co.za/](https://savannah.co.za/) | Comprehensive portfolio for various care sectors. Recent addition: Clarivine™ from Vytrus Biotech. | Johannesburg: +27 11 856 4500, Cape Town: +27 21 830 5306 |
+| **IMCD South Africa (Pty) Ltd** | [https://www.imcdgroup.com/](https://www.imcdgroup.com/) | Global leader in sales, marketing, and distribution of specialty chemicals and ingredients. | Contact via IMCD Group website. |
+
+
+
+## 4. Strategic Recommendations
+
+Based on the research findings, the following strategic recommendations are proposed to optimize the SKIN-TWIN supply chain, mitigate risks, and enhance sourcing efficiency:
+
+### 4.1. Diversify Supplier Base
+
+The most critical recommendation is to address the single-sourcing risk for key ingredients. A proactive approach to identify and qualify alternative suppliers for high-priority ingredients is essential. This will reduce dependency on single suppliers and enhance supply chain resilience.
+
+### 4.2. Strengthen Supplier Relationships
+
+Developing stronger relationships with key suppliers like **Natchem CC**, **Meganede CC**, and **Croda Chemicals** can provide significant advantages. These relationships can lead to better pricing, early access to new ingredients, and enhanced technical support. Regular communication and collaboration can foster a partnership approach to sourcing.
+
+### 4.3. Enhance Pricing Transparency
+
+To overcome the challenge of opaque pricing, a systematic approach to requesting quotes from multiple suppliers for the same ingredients should be implemented. This will not only provide a clearer picture of the market pricing but also create a competitive environment that can lead to cost savings.
+
+### 4.4. Leverage Local and International Suppliers
+
+A balanced sourcing strategy that leverages both local and international suppliers is recommended. While local suppliers offer logistical advantages, international suppliers like **A&E Connock** and **Vantage Speciality Chemicals** can provide access to a wider range of innovative ingredients. The recent acquisitions of local suppliers by international players like **Brenntag** and **Azelis** also present new opportunities to tap into global supply networks.
+
+
+
+## 5. Conclusion
+
+This research has provided a comprehensive and up-to-date analysis of the SKIN-TWIN supplier network. The systematic investigation of 23 South African skincare ingredient suppliers has yielded valuable insights into market dynamics, supplier capabilities, and supply chain risks. The updated hypergraph data and the strategic recommendations presented in this report provide a solid foundation for optimizing the sourcing strategy for the SKIN-TWIN project. Continuous monitoring of the supplier landscape will be crucial to maintaining a competitive edge and ensuring the long-term success of the project.
+
