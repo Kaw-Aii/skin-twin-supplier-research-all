@@ -264,7 +264,7 @@ To overcome the challenge of opaque pricing, a systematic approach to requesting
 
 ### 4.4. Leverage Local and International Suppliers
 
-A balanced sourcing strategy that leverages both local and international suppliers is recommended. While local suppliers offer logistical advantages, international suppliers like **A&E Connock** and **Vantage Speciality Chemicals** can provide access to a wider range of innovative ingredients. The recent acquisitions of local suppliers by international players like **Brenntag** and **Azelis** also present new opportunities to tap into global supply networks.
+A balanced sourcing strategy that leverages both local and international suppliers is recommended. While local suppliers offer logistical advantages, international suppliers like A&E Connock and Vantage Speciality Chemicals can provide access to a wider range of innovative ingredients. The recent acquisitions of local suppliers by international players like Brenntag and Azelis also present new opportunities to tap into global supply networks.
 
 
 
