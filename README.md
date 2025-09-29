@@ -21,21 +21,38 @@ This repository contains comprehensive research data on South African skincare i
 └── README.md            # This file
 ```
 
-## Key Findings Summary
+## Latest Update - September 2024
 
-### Major Suppliers Identified
-- **Natchem CC**: 16 ingredients (18% market share) - Exclusive Greentech distributor
-- **Meganede CC**: 15 ingredients (16% market share) - Silab distributor  
-- **Croda Chemicals**: 7 premium biotech ingredients with local Centre of Excellence
-- **Botanichem**: 2 ingredients with transparent online pricing (R352-R10,318 range)
-- **AECI Specialty Chemicals**: Diversified chemical company with sustainability focus
-- **Carst & Walker**: Substantial importer and distributor, part of Hobart Enterprises group
+### Major Research Findings
+- **Verified Suppliers**: 8 out of 23 suppliers confirmed operational (34.8%)
+- **Confirmed Ingredients**: 44 out of 91 ingredients verified available (48.4%)
+- **Major Suppliers Performance**: All four primary suppliers (Natchem, Meganede, Croda, Botanichem) confirmed operational with excellent availability
+- **Supply Chain Risk**: 47 ingredients (51.6%) require further supplier verification
+
+### Key Suppliers Verified
+
+| Supplier | Ingredients | Status | Key Capabilities |
+|----------|-------------|--------|------------------|
+| **Natchem CC** | 16 (17.6%) | ✅ Operational | Exclusive Greentech distributor, botanical actives |
+| **Meganede CC** | 15 (16.5%) | ✅ Operational | Silab distributor, natural active ingredients |
+| **Croda Chemicals** | 7 (7.7%) | ✅ Operational | 757+ ingredients, biotech innovation leader |
+| **Botanichem** | 2 (2.2%) | ✅ Operational | Direct online pricing, formulation services |
+| **AECI Specialty** | 1 (1.1%) | ✅ Operational | Sustainable chemistry focus |
+| **Cosmetic Ingredients** | 1 (1.1%) | ✅ Operational | B2B supplier with applications lab |
+| **o6 Agencies** | 1 (1.1%) | ✅ Operational | Fragrance and flavor supplier |
+| **A&E Connock** | 1 (1.1%) | ✅ Operational | UK specialty ingredients |
+
+### Market Trends Identified
+1. **Sustainability Focus**: All major suppliers emphasizing natural origin, sustainable sourcing, and organic certifications
+2. **Biotech Innovation**: Croda leading with biotech-derived ingredients like KeraBio™ K31 and biosurfactants
+3. **Digital Transformation**: Botanichem offering direct online pricing while others maintain B2B quote models
+4. **Regulatory Compliance**: Strong emphasis on international certifications (Ecocert, NaTrue, ISO standards)
 
 ### Critical Supply Chain Insights
-- **Coverage**: 25 ingredients analyzed (27% of total 91-ingredient portfolio)
-- **Single-sourcing Risk**: 100% of ingredients have only one identified supplier
-- **Pricing Transparency Gap**: Only Botanichem provides direct online pricing
-- **Geographic Concentration**: All suppliers based in South Africa
+- **Coverage**: 44 ingredients verified (48.4% of total 91-ingredient portfolio)
+- **Single-sourcing Risk**: 47 ingredients require backup supplier identification
+- **Pricing Transparency**: Botanichem provides direct pricing (R352.35 - R10,318.45 range)
+- **Geographic Concentration**: Strong local South African supplier base with international backing
 - **Premium Positioning**: Croda and Natchem command premium pricing for specialized ingredients
 
 ## Data Files
@@ -63,10 +80,11 @@ The data in this repository can be used for:
 
 ## Data Quality
 
-- **Last Updated**: September 22, 2025
-- **Coverage**: 25/91 ingredients (27%)
-- **Verification**: Direct supplier website research
-- **Accuracy**: Contact information verified through official sources
+- **Last Updated**: September 29, 2024
+- **Coverage**: 44/91 ingredients verified (48.4%)
+- **Verification Method**: Direct supplier website research and contact verification
+- **Accuracy**: Contact information and availability confirmed through official sources
+- **New Files**: RSNodes_updated_2024.csv, comprehensive analysis reports
 
 ## License
 
