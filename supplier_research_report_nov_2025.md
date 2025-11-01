@@ -106,3 +106,55 @@ While the major suppliers offer a wide range of products, it is crucial to maint
 
 The skincare market is constantly evolving. It is essential to continuously monitor new product launches, supplier updates, and market trends. The active social media presence of suppliers like Natchem and the regular news updates from Croda and Carst & Walker are valuable sources of information for staying ahead of the curve.
 
+
+
+## 5. Hypergraph Data Updates
+
+As part of this research, the hypergraph data has been updated to reflect the current state of the supplier network. The following updates have been made:
+
+### 5.1. RSNodes Updates
+
+The RSNodes file has been updated with the following changes:
+
+- **6 supplier status updates**: All major suppliers have been confirmed as active, with updated notes reflecting their current status and recent developments.
+- **5 new product nodes**: New products launched in 2025 have been added to the hypergraph, including EXFOLACTIVE®, KeraBio™ K31, Natrineo™ CR8, AmelioSense™, and PhytoCellTec™ Exosomes.
+
+The total number of nodes has increased from 91 to 96.
+
+### 5.2. RSEdges Updates
+
+The RSEdges file has been updated to reflect the relationships between the new products and their respective suppliers:
+
+- **5 new edges**: Each new product has been connected to its supplier, establishing the supply chain relationships within the hypergraph.
+
+The total number of edges has increased from 91 to 96.
+
+These updates ensure that the hypergraph accurately represents the current state of the South African skincare ingredient supply chain, providing a solid foundation for further analysis and decision-making.
+
+## 6. Conclusion
+
+This comprehensive research has provided valuable insights into the current state of the South African skincare ingredient supply chain. All six major suppliers are active and continue to offer a wide range of products and services. The most significant change is the restoration of AECI's website, which has made their extensive product range and technical support services accessible again.
+
+The new product launches from Croda and Carst & Walker highlight the ongoing innovation in the market, with a focus on high-performance, scientifically-backed ingredients. Botanichem's transparent pricing model offers a unique advantage for cost analysis and budgeting.
+
+The strategic recommendations provided in this report are designed to help navigate the evolving landscape of the South African cosmetic ingredients market, leveraging the strengths of each supplier and staying ahead of market trends. The updated hypergraph data provides a solid foundation for further analysis and decision-making.
+
+## 7. References
+
+1. Natchem CC - [https://www.natchem.co.za/](https://www.natchem.co.za/)
+2. Meganede CC - [https://www.meganede.com/](https://www.meganede.com/)
+3. Croda Chemicals - [https://www.croda.com/](https://www.croda.com/)
+4. Croda Beauty - [https://www.crodabeauty.com/](https://www.crodabeauty.com/)
+5. Botanichem - [https://botanichem.co.za/](https://botanichem.co.za/)
+6. The Personal Care Coach (Botanichem) - [https://thepersonalcarecoach.com/shop/](https://thepersonalcarecoach.com/shop/)
+7. Carst & Walker - [https://carst.com/](https://carst.com/)
+8. Carst & Walker - AmelioSense™ & PhytoCellTec™ Exosomes - [https://carst.com/scientific-innovation-in-skin-health-introducing-ameliosense-and-phytocelltec-exosomes/](https://carst.com/scientific-innovation-in-skin-health-introducing-ameliosense-and-phytocelltec-exosomes/)
+9. AECI Specialty Chemicals - [https://sc.aecichemicals.co.za/](https://sc.aecichemicals.co.za/)
+10. Silab - [https://www.silab.fr/](https://www.silab.fr/)
+
+---
+
+**Report prepared by:** Manus AI  
+**Date:** November 1, 2025  
+**Repository:** [https://github.com/Kaw-Aii/skin-twin-supplier-research-all](https://github.com/Kaw-Aii/skin-twin-supplier-research-all)
+
